@@ -1,5 +1,5 @@
 <h1 align="center">Hi dear 👋, I'm Eduardo</h1>
-<h3 align="center">A Web Developer Instructor focused on helping people start programming</h3>
+<h3 align="center">Sou um Eterno estudante Web Developer, sou apaixonado em aprender novas tecnologias, desde a epoca que site era feito em tabelas eu tinha q ficar recortando as imagens para colocar em cada celula, </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=educartj" alt="educartj" /> </p>
 
 - 🔭 I’m currently working on [Freelance AE iguarias](https://aeiguarias.com.br) | [Freelance Gardener](https://gardenerpaisagismo.com.br)
@@ -17,8 +17,8 @@
 
 <p align="center">
 <a href="https://twitter.com/educartj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="educartj" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/eduardo-silva-b5265246" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://fb.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/eduardo-silva-b5265246" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="educartj" height="20" width="20" /></a>
+<a href="https://fb.com/p.eduard.s" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="maykbrito" height="20" width="20" /></a>
 <a href="https://instagram.com/educartj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="educartj" height="20" width="20" /></a>
 </p>
 
