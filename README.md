@@ -9,9 +9,7 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, React, React Native**
 
-- 📫 How to reach me **contato@padu.online**
-
-- ⚡ Fun fact **Oneye**
+- 📫 How to reach me **contato@padu.online** | **educartj@gmail.com**
 
 <p align="center">
 <a href="https://twitter.com/educartj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="educartj" height="20" width="20" /></a>
