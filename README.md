@@ -1,5 +1,5 @@
 <h1 align="center">Hi dear 👋, I'm Eduardo</h1>
-<h3 align="center">Sou um Eterno estudante Web Developer, sou apaixonado em aprender novas tecnologias, desde a epoca que site era feito em tabelas eu tinha q ficar recortando as imagens para colocar em cada celula, </h3>
+<h3 align="center">Sou um Eterno estudante Web Developer, sou apaixonado em aprender novas tecnologias, desde a época que o site era feito em tabelas e tinha que ficar recortando as imagens para colocar em cada célula hahaha... </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=educartj" alt="educartj" /> </p>
 
 - 🔭 I’m currently working on [Freelance AE iguarias](https://aeiguarias.com.br) | [Freelance Gardener](https://gardenerpaisagismo.com.br)
